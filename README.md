@@ -25,4 +25,4 @@ Instale Morse Project com npm
 
 Para testar ele utilize o botão abaixo:
 
-[![Develop in Expo Snack](https://img.shields.io/badge/Snack-fff.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=FFF)](https://snack.expo.dev/@a5ur4/carnaval-2024))
+[![Develop in Expo Snack](https://img.shields.io/badge/Snack-fff.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=FFF)](https://snack.expo.dev/@a5ur4/carnaval-2024)
